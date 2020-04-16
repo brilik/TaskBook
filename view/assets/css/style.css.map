@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA;mCACoC;EAClC,KAAK,EAAE,kBAAiB",
+"sources": ["../scss/layout/components/task-item.scss"],
+"names": [],
+"file": "style.css"
+}
